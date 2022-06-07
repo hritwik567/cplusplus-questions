@@ -16,6 +16,7 @@
 8. Implement the following specializations of print function
     - For integral types
     - Class has a iterator
-9. Implement std::string
-10. Implement Memory Pools
+9. Implement std::string, focus on SSO
+10. Implement Memory Pools, taken help from [this](http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/)
+11. Implement std::vector, don't use the `new` operator 
 

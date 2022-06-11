@@ -1,5 +1,7 @@
 # C++ Interview Questions
 
+*You can find theory questions [here](QUESTIONS.md)*
+
 1. Implement std::variant
 2. Implement std::any
 3. Implement std::optional
@@ -19,4 +21,4 @@
 9. Implement std::string, focus on SSO
 10. Implement Memory Pools, taken help from [this](http://dmitrysoshnikov.com/compilers/writing-a-pool-allocator/)
 11. Implement std::vector, don't use the `new` operator 
-
+12. Implement std::tuple, using C++20 ways
